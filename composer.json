@@ -1,0 +1,14 @@
+{
+    "name": "saleshero/libphonenumber-for-PHP",
+    "type": "library",
+    "require": {
+            "php": ">=5.3"
+        },
+    "support": {
+            "source": "https://github.com/saleshero/libphonenumber-for-PHP"
+        },
+    "autoload": {
+        "classmap": ["PhoneNumberUtil"]
+        }
+}
+
